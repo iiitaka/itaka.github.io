@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Robinhood Traders discovered a malfunction that gave them an "infinite lever".
 
-You can use the [editor on GitHub](https://github.com/iiitaka/itaka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A mistake in Robinhood Markets Inc. is to allow users to trade shares with excess borrowed funds, giving them access to the amount of free money.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Called "infinite money fraud code" by WallStreetBets Reddit Inc. forum users, the error is exploited, according to forum users. One trader boasted a position of about 1 million dollars, financed from a deposit of 4000 dollars.
 
-### Markdown
+Robinhood is "aware of isolated situations and communicates directly with clients," said Lavinia Chirico's spokesperson in response to the questions in the email.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Menlo Park, a California-based designer of money management software, touches the "commission-free" trade. Robinhood Gold customers are invited to "top up" their investments by paying $5 a month for trading on a margin or money borrowed from the company.
 
-```markdown
-Syntax highlighted code block
+A Guy on Reddit converts $766 into $107,758 in transactions for two options.
 
-# Header 1
-## Header 2
-### Header 3
+Here's how trading works. Robinhood Gold users sell guaranteed calls using money borrowed from Robinhood. There's nothing wrong with that. The problem arises when Robinhood incorrectly adds value to your equity. This means that the more money a user lends, the more money Robinhood will lend for future trading.
+refers to Robinhood Traders discovered a mistake that gave them "infinite leverage".
 
-- Bulleted
-- List
+One trader managed to convert his deposit into a $2,000 deposit into a $50,000 purchasing power, which he used to buy from Apple Inc. He then lost the money and posted an excuse video on YouTube.
 
-1. Numbered
-2. List
+In a hidden connection, stockholders make a profit or loss by agreeing to sell a stock purchase option at a predetermined price for a certain amount of time and date in the future.
 
-**Bold** and _Italic_ and `Code` text
+Merchants using what they called infinite leverage to top up their bets can be held accountable for money and guilty of securities fraud, according to Donald Langevoort, professor of law at Georgetown University.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iiitaka/itaka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"If there is an element of fraud that you got it by exploiting a loophole in the system, I see how it could become a securities fraud case," Langevoort said. "Another possibility is the basic customary right of restitution. If you use someone else's mistake to fill your own pockets, you have to pay them back.
